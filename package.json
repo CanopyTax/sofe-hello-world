@@ -1,0 +1,24 @@
+{
+  "name": "sofe-hello-world",
+  "version": "1.0.0",
+  "description": "A simple sofe service which allows new users to verify sofe is properly setup",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanopyTax/sofe-hello-world.git"
+  },
+  "keywords": [
+    "sofe",
+    "soa",
+    "service"
+  ],
+  "author": "Bret Little",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CanopyTax/sofe-hello-world/issues"
+  },
+  "homepage": "https://github.com/CanopyTax/sofe-hello-world#readme"
+}
