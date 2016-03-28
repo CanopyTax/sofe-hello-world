@@ -15,6 +15,9 @@
     "soa",
     "service"
   ],
+  "sofe": {
+    "url": "https://npmcdn.com/sofe-hello-world@1.0.0/hello.js"
+  },
   "author": "Bret Little",
   "license": "Apache-2.0",
   "bugs": {
