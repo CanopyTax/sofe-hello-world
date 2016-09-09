@@ -16,7 +16,7 @@
     "service"
   ],
   "sofe": {
-    "url": "https://unpkg.com/sofe-hello-world@1.0.0/hello.js"
+    "url": "https://unpkg.com/sofe-hello-world@1.0.1/hello.js"
   },
   "author": "Bret Little",
   "license": "Apache-2.0",
