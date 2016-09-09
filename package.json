@@ -1,6 +1,6 @@
 {
   "name": "sofe-hello-world",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple sofe service which allows new users to verify sofe is properly setup",
   "main": "hello.js",
   "scripts": {
